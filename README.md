@@ -23,7 +23,8 @@ User enters a query → AI agent processes it → Structured response is display
 The AI agent is built using Lyzr platform.
 
 ## Lyzr Agent Link
-[View AI Agent](https://studio.lyzr.ai/agent-create/69e397b26c75c080dd8dca6e)
+[View AI Agent](https://studio.lyzr.ai/agent/69e478cb2c1dc9e5a06f9152)
+
 
 ## 🤖 AI Agent (Lyzr Integration)
 
