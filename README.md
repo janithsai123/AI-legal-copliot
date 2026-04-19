@@ -24,3 +24,21 @@ The AI agent is built using Lyzr platform.
 
 ## Lyzr Agent Link
 [View AI Agent](https://studio.lyzr.ai/agent-create/69e397b26c75c080dd8dca6e)
+
+## 🤖 AI Agent (Lyzr Integration)
+
+The core intelligence of this project is powered by an AI agent built using the Lyzr platform.
+
+### Agent Overview
+- Handles legal query understanding
+- Classifies tasks (Email, Summarization, Guidance)
+- Generates structured responses
+
+### Agent Configuration
+![Lyzr Agent Setup](lyzr-agent-setup.png)
+
+### Agent Interface
+![Lyzr Agent UI](lyzr-agent-ui.png)
+
+### Note
+The AI agent is externally hosted on Lyzr and conceptually integrated with the Streamlit frontend.
